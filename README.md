@@ -5,6 +5,14 @@ The task: develop stable and accurate models that predict 424 target time series
 
 ---
 
+## Highlights
+- End-to-end ML pipeline: ETL → Feature Engineering → Model Training → Inference  
+- Custom rank-based Sharpe ratio evaluation (competition metric)  
+- Random Forest feature selection + XGBoost regressors per target  
+- Stable generalization: 0.20 (submission) vs. 0.19 (validation)
+
+---
+
 ## Approach
 
 1. **Data Processing & Feature Engineering**
