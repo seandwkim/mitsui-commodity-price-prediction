@@ -35,12 +35,14 @@ The task: develop stable and accurate models that predict 424 target time series
 
 ## Repository Structure
 
+```
 mitsui-commodity-price-prediction/
 │
-├── mitsui2025_pipeline.py # Full pipeline: preprocessing, FE, RF feature selection, XGB training
-├── mitsui2025_inference.py # Inference server: loads artifacts & serves predictions
-├── artifacts/ # Saved models, features, and metadata
+├── mitsui2025_pipeline.py      # Full pipeline: preprocessing, FE, RF feature selection, XGB training
+├── mitsui2025_inference.py     # Inference server: loads artifacts & serves predictions
+├── artifacts/                  # Saved models, features, and metadata
 └── README.md
+```
 
 ---
 
