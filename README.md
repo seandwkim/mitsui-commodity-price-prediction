@@ -1,7 +1,7 @@
 # Mitsui Commodity Price Prediction (2025 Kaggle Challenge)
 
-This repository documents my approach to the Mitsui & Co. Commodity Price Prediction Challenge (2025).  
-The task: develop stable and accurate models that predict 424 target time series** of commodity price differences, using global financial market data such as LME, JPX, US stocks, and Forex.
+This repository documents my approach to the **Mitsui & Co. Commodity Price Prediction Challenge (2025)**.  
+The task: develop stable and accurate models that predict 424 target time series of commodity price differences, using global financial market data such as LME, JPX, US stocks, and Forex.
 
 ---
 
