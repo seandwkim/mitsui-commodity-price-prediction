@@ -23,8 +23,7 @@ The task: develop stable and accurate models that predict 424 target time series
 
 2. **Feature Selection**
    - Train a **Random Forest regressor**  
-   - Rank features by importance  
-   - Retain the top ~5% for efficiency  
+   - Rank features by importance and select features
 
 3. **Model Training**
    - Train **XGBoost regressors** per target series  
